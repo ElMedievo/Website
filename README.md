@@ -29,4 +29,4 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/ElMedievo/Website/issues) here on GitHub.
