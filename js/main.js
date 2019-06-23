@@ -101,10 +101,9 @@
 		});
 	}
 
-	/*--/ Testimonials owl /--*/
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
-		autoplay: true,
+		autoplay: false,
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
 		responsive: {
