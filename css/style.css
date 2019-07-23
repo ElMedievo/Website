@@ -1053,6 +1053,24 @@ a:hover {
   color: #fff;
 }
 
+/*------/ Rules /------*/
+
+div.letter_section {
+  font-size: 30px;
+}
+
+div.diamond_section {
+  font-size: 23px;
+  position: relative;
+  left: 20px;
+}
+
+div.rules_enum {
+  font-size: 18px;
+  position: relative;
+  left: 20px;
+}
+
 /*======================================
 //--//-->   CONTACT
 ======================================*/
