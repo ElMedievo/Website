@@ -89,7 +89,7 @@
 		}
 	});
 
-	/*--/ Star Typed /--
+	/*--/ Star Typed /--*/
 	if ($('.text-slider').length === 1) {
 		const typed_strings = $('.text-slider-items').text();
 		var typed = new Typed('.text-slider', {
@@ -100,7 +100,6 @@
 			backSpeed: 30
 		});
 	}
-	*/
 
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
