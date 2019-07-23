@@ -46,7 +46,7 @@
 
 	/*--/ Star Scrolling nav /--*/
 	$('a.js-scroll[href*="#"]:not([href="#"])').on("click", function () {
-		if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+		if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
 			var target = $(this.hash);
 			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
 			if (target.length) {
@@ -90,7 +90,7 @@
 	});
 
 	/*--/ Star Typed /--
-	if ($('.text-slider').length == 1) {
+	if ($('.text-slider').length === 1) {
 		const typed_strings = $('.text-slider-items').text();
 		var typed = new Typed('.text-slider', {
 			strings: typed_strings.split(','),
