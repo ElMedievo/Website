@@ -2,12 +2,12 @@
 	"use strict";
 	var nav = $('nav');
   var navHeight = nav.outerHeight();
-  
+
   $('.navbar-toggler').on('click', function() {
     if( ! $('#mainNav').hasClass('navbar-reduce')) {
       $('#mainNav').addClass('navbar-reduce');
     }
-  })
+  });
 
   // Preloader
   $(window).on('load', function () {
@@ -89,9 +89,9 @@
 		}
 	});
 
-	/*--/ Star Typed /--*/
+	/*--/ Star Typed /--
 	if ($('.text-slider').length == 1) {
-    var typed_strings = $('.text-slider-items').text();
+		const typed_strings = $('.text-slider-items').text();
 		var typed = new Typed('.text-slider', {
 			strings: typed_strings.split(','),
 			typeSpeed: 80,
@@ -100,6 +100,7 @@
 			backSpeed: 30
 		});
 	}
+	*/
 
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
