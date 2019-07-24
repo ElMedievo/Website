@@ -1071,6 +1071,37 @@ div.rules_enum {
   left: 20px;
 }
 
+/*------/ Updates /------*/
+
+div.updates_title {
+  font-size: 35px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+div.updates_bellow_title {
+  font-size: 25px;
+  text-align: center;
+}
+
+div.updates_subtitle {
+  font-size: 30px;
+  text-align: center;
+}
+
+div.updates_bellow_subtitle {
+  font-size: 25px;
+  text-align: center;
+}
+
+div.updates_body {
+  font-size: 20px;
+}
+
+div.updates_list {
+  font-size: 17px;
+}
+
 /*======================================
 //--//-->   CONTACT
 ======================================*/
