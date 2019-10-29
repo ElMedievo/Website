@@ -1,6 +1,4 @@
 # El Medievo's Static Website [![npm version](https://img.shields.io/npm/v/startbootstrap-creative.svg)](https://www.npmjs.com/package/startbootstrap-creative) [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-creative/master/LICENSE)
-## Translations
-Translations for the Medieval Website are currently being handled over at our [Public Crowdin Project](https://crowdin.com/project/medievo), as a part of an experimental program for two weeks. Give it a try and contribute if you can!
 
 ## Download and Installation
 
